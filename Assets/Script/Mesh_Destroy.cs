@@ -18,6 +18,11 @@ public class Mesh_Destroy : MonoBehaviour
 
     }
 
+    private void OnCollisionEnter(Collision collision)
+    {
+        
+    }
+
     // Update is called once per frame
     void Update()
     {
@@ -297,5 +302,5 @@ public class Mesh_Destroy : MonoBehaviour
 
         }
 
-    }
+    } 
 }
