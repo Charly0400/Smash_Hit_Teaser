@@ -28,7 +28,7 @@ public class Mesh_Destroy : MonoBehaviour
     {
         if (Input.GetMouseButtonDown(0))
         {
-            DestroyMesh();
+            //DestroyMesh();
         }
     }
 
